@@ -1,4 +1,0 @@
-# Ignorar diretório de saída (arquivos compilados)
-out/
-# Ignorar arquivos compilados (classe)
-*.class
