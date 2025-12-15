@@ -113,7 +113,7 @@ public class DecodificadorResistor {
             // exatamente no formato exigido
             System.out.println(e.getMessage());
 
-            // Encerra imediatamente o programa com código de erro, 
+            // Encerra imediatamente o programa com código de erro,
             // conforme especificação do desafio
             System.exit(1);
         }
