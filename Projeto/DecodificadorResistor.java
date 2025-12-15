@@ -1,3 +1,5 @@
+package Projeto;
+
 // Importa a classe Scanner para leitura da entrada padrão (stdin)
 import java.util.Scanner;
 
@@ -95,17 +97,63 @@ public class DecodificadorResistor {
             // Valida se cada cor é compatível com a posição que ocupa
             validarCoresPorPosicao(cores);
 
-            // Executa o cálculo elétrico do resistor,
-            // retornando um objeto com os valores calculados
-            CalculoResistencia.Resultado r = CalculoResistencia.calcular(cores);
+            // Variável que armazenará o valor formado pelos dígitos do resistor
+            int digitos;
+
+            // Variável que armazenará o valor final da resistência em Ohms
+            double valorOhms;
+
+            // Verifica o número de faixas do resistor para decidir
+            // quantos dígitos devem ser considerados no cálculo
+            if (cores.length == 4) {
+
+            // Caso do resistor de 4 faixas:
+            // As duas primeiras faixas representam os dígitos significativos
+
+            // Converte as duas primeiras cores em um número inteiro
+            // Exemplo: marrom(1) e preto(0) → 10
+            digitos = CalculoResistencia.calcularDigitos(
+                cores[0],
+                cores[1]
+            );
+
+            // Aplica o multiplicador representado pela terceira faixa
+            // Exemplo: 10 × vermelho(100) → 1000 Ohms
+            valorOhms = CalculoResistencia.aplicarMultiplicador(
+                digitos,
+                cores[2]
+            );
+
+            } else {
+
+            // Caso do resistor de 5 ou 6 faixas:
+            // As três primeiras faixas representam os dígitos significativos
+
+            // Converte as três primeiras cores em um número inteiro
+            // Exemplo: marrom(1), preto(0), vermelho(2) → 102
+            digitos = CalculoResistencia.calcularDigitos(
+                cores[0],
+                cores[1],
+                cores[2]
+            );
+
+            // Aplica o multiplicador representado pela quarta faixa
+            valorOhms = CalculoResistencia.aplicarMultiplicador(
+                digitos,
+                cores[3]
+            );
+        }
 
             // PRIMEIRA LINHA DA SAÍDA:
-            // imprime o valor inteiro da resistência em Ohms
-            System.out.println(r.valorOhmsInteiro);
+            // Imprime o valor inteiro da resistência em Ohms,
+            // conforme exigido no enunciado do desafio
+            System.out.println((int) valorOhms);
 
             // SEGUNDA LINHA DA SAÍDA:
-            // imprime o valor formatado conforme o enunciado
-            System.out.println(FormatadorResistencia.formatarSaida(r));
+            // Imprime o valor formatado em Ohms, kOhms ou MOhms,
+            // utilizando o formatador responsável pela apresentação
+            System.out.println(FormatadorResistencia.formatar(valorOhms));
+
 
         } catch (IllegalArgumentException e) {
 
