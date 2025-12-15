@@ -1,22 +1,24 @@
-// Importa Scanner para leitura da entrada padrão (stdin)
+// Importa a classe Scanner para leitura da entrada padrão (stdin)
 import java.util.Scanner;
 
-// Importa Locale para normalização de strings
+// Importa Locale para garantir conversão correta para minúsculas,
+// independentemente da configuração regional do sistema
 import java.util.Locale;
 
-// Importa Set para conjuntos de valores válidos
+// Importa Set para armazenar conjuntos de cores válidas
 import java.util.Set;
 
-// Importa a classe que executa o cálculo elétrico do resistor
+// Importa a classe responsável pelo cálculo elétrico do resistor
 import calculo.CalculoResistencia;
 
-// Importa a classe que formata a saída conforme o enunciado
+// Importa a classe responsável por formatar a saída
 import formatacao.FormatadorResistencia;
 
 // Classe principal do programa
 public class DecodificadorResistor {
 
     // Conjunto de cores válidas para faixas de DÍGITO
+    // Usadas nas posições iniciais do resistor
     private static final Set<String> DIGITOS_VALIDOS = Set.of(
             "preto", "marrom", "vermelho", "laranja", "amarelo",
             "verde", "azul", "violeta", "cinza", "branco",
@@ -38,7 +40,8 @@ public class DecodificadorResistor {
             "ouro", "dourado", "prata"
     );
 
-    // Conjunto de cores válidas para TEMPCO (coeficiente de temperatura)
+    // Conjunto de cores válidas para o coeficiente de temperatura (TEMPCO)
+    // Utilizado apenas em resistores de 6 faixas
     private static final Set<String> TEMPCO_VALIDOS = Set.of(
             "marrom", "vermelho", "laranja", "amarelo"
     );
@@ -46,17 +49,21 @@ public class DecodificadorResistor {
     // Método principal do programa
     public static void main(String[] args) {
 
-        // Se houver argumentos, trata como um único resistor
+        // Se o programa for executado com argumentos de linha de comando,
+        // trata esses argumentos como as cores de um único resistor
         if (args != null && args.length > 0) {
             processarResistor(args);
             return;
         }
 
-        // Caso contrário, lê múltiplos resistores da entrada padrão
+        // Caso contrário, o programa passa a ler da entrada padrão (stdin),
+        // permitindo o processamento de múltiplas linhas
         try (Scanner sc = new Scanner(System.in)) {
+
+            // Lê a entrada enquanto houver linhas disponíveis
             while (sc.hasNextLine()) {
 
-                // Lê a linha atual e remove espaços nas extremidades
+                // Lê uma linha completa e remove espaços extras
                 String linha = sc.nextLine().trim();
 
                 // Ignora linhas vazias
@@ -64,47 +71,69 @@ public class DecodificadorResistor {
                     continue;
                 }
 
-                // Quebra a linha em cores
+                // Divide a linha em cores separadas por espaços
                 String[] cores = linha.split("\\s+");
 
-                // Processa o resistor representado pela linha
+                // Processa o resistor representado pela linha atual
                 processarResistor(cores);
             }
         }
     }
 
-    // Processa um resistor (ainda sem encerramento imediato em caso de erro neste commit)
+    // Método responsável por processar um único resistor.
+    // Neste commit, ele passa a tratar erros e encerrar o programa
+    // imediatamente ao encontrar a primeira entrada inválida.
     private static void processarResistor(String[] cores) {
 
-        // Normaliza as cores para padronizar entrada do usuário
-        normalizar(cores);
+        try {
+            // Normaliza as cores para padronizar a entrada do usuário
+            normalizar(cores);
 
-        // Valida a quantidade de faixas
-        validarNumeroFaixas(cores.length);
+            // Valida se o número total de faixas é permitido (4, 5 ou 6)
+            validarNumeroFaixas(cores.length);
 
-        // Valida a cor conforme a posição da faixa
-        validarCoresPorPosicao(cores);
+            // Valida se cada cor é compatível com a posição que ocupa
+            validarCoresPorPosicao(cores);
 
-        // Executa o cálculo do resistor e obtém um resultado estruturado
-        CalculoResistencia.Resultado r = CalculoResistencia.calcular(cores);
+            // Executa o cálculo elétrico do resistor,
+            // retornando um objeto com os valores calculados
+            CalculoResistencia.Resultado r = CalculoResistencia.calcular(cores);
 
-        // PRIMEIRA LINHA DO GABARITO: imprime o valor inteiro (truncado) em Ohms
-        System.out.println(r.valorOhmsInteiro);
+            // PRIMEIRA LINHA DA SAÍDA:
+            // imprime o valor inteiro da resistência em Ohms
+            System.out.println(r.valorOhmsInteiro);
 
-        // SEGUNDA LINHA DO GABARITO: imprime o texto formatado completo
-        System.out.println(FormatadorResistencia.formatarSaida(r));
+            // SEGUNDA LINHA DA SAÍDA:
+            // imprime o valor formatado conforme o enunciado
+            System.out.println(FormatadorResistencia.formatarSaida(r));
+
+        } catch (IllegalArgumentException e) {
+
+            // Em caso de erro de validação, imprime a mensagem
+            // exatamente no formato exigido
+            System.out.println(e.getMessage());
+
+            // Encerra imediatamente o programa com código de erro, 
+            // conforme especificação do desafio
+            System.exit(1);
+        }
     }
 
-    // Normaliza todas as cores recebidas
+    // Método responsável por normalizar todas as cores recebidas
     private static void normalizar(String[] cores) {
+
+        // Percorre todas as posições do vetor de cores
         for (int i = 0; i < cores.length; i++) {
+
+            // Remove espaços extras e converte para minúsculas;
+            // se a posição for nula, substitui por string vazia
             cores[i] = (cores[i] == null)
                     ? ""
                     : cores[i].trim().toLowerCase(Locale.ROOT);
         }
     }
 
-    // Valida o número total de faixas do resistor
+    // Valida se o número total de faixas do resistor é permitido
     private static void validarNumeroFaixas(int n) {
         if (n != 4 && n != 5 && n != 6) {
             throw new IllegalArgumentException(
@@ -113,10 +142,12 @@ public class DecodificadorResistor {
         }
     }
 
-    // Valida cores conforme a regra de cada tipo de resistor (4, 5 ou 6 faixas)
+    // Valida as cores de acordo com a posição ocupada no resistor
     private static void validarCoresPorPosicao(String[] cores) {
         int n = cores.length;
 
+        // Resistor de 4 faixas:
+        // 2 dígitos, 1 multiplicador e 1 tolerância
         if (n == 4) {
             validarDigito(cores[0], 1);
             validarDigito(cores[1], 2);
@@ -125,6 +156,8 @@ public class DecodificadorResistor {
             return;
         }
 
+        // Resistor de 5 faixas:
+        // 3 dígitos, 1 multiplicador e 1 tolerância
         if (n == 5) {
             validarDigito(cores[0], 1);
             validarDigito(cores[1], 2);
@@ -134,6 +167,8 @@ public class DecodificadorResistor {
             return;
         }
 
+        // Resistor de 6 faixas:
+        // 3 dígitos, 1 multiplicador, 1 tolerância e 1 tempco
         validarDigito(cores[0], 1);
         validarDigito(cores[1], 2);
         validarDigito(cores[2], 3);
@@ -142,30 +177,35 @@ public class DecodificadorResistor {
         validarTempco(cores[5], 6);
     }
 
+    // Verifica se uma cor é válida para uma posição de dígito
     private static void validarDigito(String cor, int posicao) {
         if (!DIGITOS_VALIDOS.contains(cor)) {
             erroCorPosicao(cor, posicao);
         }
     }
 
+    // Verifica se uma cor é válida para a posição de multiplicador
     private static void validarMultiplicador(String cor, int posicao) {
         if (!MULTIPLICADORES_VALIDOS.contains(cor)) {
             erroCorPosicao(cor, posicao);
         }
     }
 
+    // Verifica se uma cor é válida para a posição de tolerância
     private static void validarTolerancia(String cor, int posicao) {
         if (!TOLERANCIAS_VALIDAS.contains(cor)) {
             erroCorPosicao(cor, posicao);
         }
     }
 
+    // Verifica se uma cor é válida para a posição de tempco
     private static void validarTempco(String cor, int posicao) {
         if (!TEMPCO_VALIDOS.contains(cor)) {
             erroCorPosicao(cor, posicao);
         }
     }
 
+    // Lança uma exceção padronizada indicando erro de cor por posição
     private static void erroCorPosicao(String cor, int posicao) {
         throw new IllegalArgumentException(
                 "Argumentos inválidos: cor da faixa (" + cor + ") não é válida para sua posição (" + posicao + ")"
