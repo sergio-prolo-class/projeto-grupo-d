@@ -1,0 +1,2000 @@
+0
+Resistência: 0,93 Ohms (+- 1%)
+1500000
+Resistência: 1,5 MOhms (+- 0,05%)
+8300
+Resistência: 8,3 kOhms (+- 0,25%)
+72000000
+Resistência: 72 MOhms (+- 0,05%)
+70000
+Resistência: 70 kOhms (+- 10%)
+63000000
+Resistência: 63 MOhms (+- 0,25%)
+61
+Resistência: 61 Ohms (+- 5%)
+26
+Resistência: 26 Ohms (+- 0,5%)
+350000000
+Resistência: 350 MOhms (+- 0,5%)
+43000
+Resistência: 43 kOhms (+- 0,5%)
+65000
+Resistência: 65 kOhms (+- 1%)
+640000000
+Resistência: 640 MOhms (+- 5%)
+23000
+Resistência: 23 kOhms (+- 2%)
+96
+Resistência: 96 Ohms (+- 5%)
+290
+Resistência: 290 Ohms (+- 0,1%)
+2900
+Resistência: 2,9 kOhms (+- 2%)
+0
+Resistência: 0,94 Ohms (+- 2%)
+49
+Resistência: 49 Ohms (+- 2%)
+59000
+Resistência: 59 kOhms (+- 0,05%)
+6000000
+Resistência: 6 MOhms (+- 10%)
+44000
+Resistência: 44 kOhms (+- 1%)
+2
+Resistência: 2,3 Ohms (+- 5%)
+690000000
+Resistência: 690 MOhms (+- 0,05%)
+4
+Resistência: 4,5 Ohms (+- 10%)
+46000000
+Resistência: 46 MOhms (+- 0,1%)
+4000
+Resistência: 4 kOhms (+- 5%)
+9
+Resistência: 9,1 Ohms (+- 1%)
+52000000
+Resistência: 52 MOhms (+- 0,5%)
+410
+Resistência: 410 Ohms (+- 0,5%)
+85000000
+Resistência: 85 MOhms (+- 1%)
+0
+Resistência: 0,48 Ohms (+- 0,5%)
+9200
+Resistência: 9,2 kOhms (+- 0,5%)
+8200
+Resistência: 8,2 kOhms (+- 0,05%)
+5200
+Resistência: 5,2 kOhms (+- 5%)
+720000000
+Resistência: 720 MOhms (+- 1%)
+370
+Resistência: 370 Ohms (+- 0,05%)
+0
+Resistência: 0,93 Ohms (+- 0,25%)
+51
+Resistência: 51 Ohms (+- 0,25%)
+350
+Resistência: 350 Ohms (+- 5%)
+6100
+Resistência: 6,1 kOhms (+- 0,05%)
+56
+Resistência: 56 Ohms (+- 0,5%)
+20
+Resistência: 20 Ohms (+- 0,5%)
+310000
+Resistência: 310 kOhms (+- 10%)
+18000000
+Resistência: 18 MOhms (+- 10%)
+1
+Resistência: 1,6 Ohms (+- 5%)
+39
+Resistência: 39 Ohms (+- 2%)
+15000000
+Resistência: 15 MOhms (+- 10%)
+0
+Resistência: 0,41 Ohms (+- 0,5%)
+38000000
+Resistência: 38 MOhms (+- 0,5%)
+63000
+Resistência: 63 kOhms (+- 0,5%)
+0
+Resistência: 0,48 Ohms (+- 10%)
+3700
+Resistência: 3,7 kOhms (+- 0,05%)
+50
+Resistência: 50 Ohms (+- 1%)
+680000
+Resistência: 680 kOhms (+- 0,1%)
+31000
+Resistência: 31 kOhms (+- 5%)
+910
+Resistência: 910 Ohms (+- 0,5%)
+43000000
+Resistência: 43 MOhms (+- 10%)
+2700000
+Resistência: 2,7 MOhms (+- 0,05%)
+57000000
+Resistência: 57 MOhms (+- 2%)
+80000
+Resistência: 80 kOhms (+- 0,05%)
+760
+Resistência: 760 Ohms (+- 0,25%)
+410
+Resistência: 410 Ohms (+- 10%)
+45000
+Resistência: 45 kOhms (+- 0,05%)
+35000
+Resistência: 35 kOhms (+- 2%)
+3900000
+Resistência: 3,9 MOhms (+- 10%)
+69
+Resistência: 69 Ohms (+- 1%)
+2700000
+Resistência: 2,7 MOhms (+- 5%)
+160000
+Resistência: 160 kOhms (+- 0,05%)
+41
+Resistência: 41 Ohms (+- 0,25%)
+46000
+Resistência: 46 kOhms (+- 0,1%)
+5900
+Resistência: 5,9 kOhms (+- 5%)
+5
+Resistência: 5,6 Ohms (+- 0,25%)
+70
+Resistência: 70 Ohms (+- 2%)
+520000000
+Resistência: 520 MOhms (+- 2%)
+450
+Resistência: 450 Ohms (+- 0,05%)
+390000
+Resistência: 390 kOhms (+- 10%)
+19000
+Resistência: 19 kOhms (+- 0,05%)
+2200000
+Resistência: 2,2 MOhms (+- 0,1%)
+54000
+Resistência: 54 kOhms (+- 0,25%)
+8300000
+Resistência: 8,3 MOhms (+- 0,05%)
+750000
+Resistência: 750 kOhms (+- 0,25%)
+3
+Resistência: 3,8 Ohms (+- 2%)
+0
+Resistência: 0,72 Ohms (+- 0,25%)
+37000000
+Resistência: 37 MOhms (+- 0,5%)
+830
+Resistência: 830 Ohms (+- 10%)
+440000000
+Resistência: 440 MOhms (+- 0,5%)
+2800
+Resistência: 2,8 kOhms (+- 0,1%)
+480000
+Resistência: 480 kOhms (+- 1%)
+76
+Resistência: 76 Ohms (+- 0,5%)
+820000000
+Resistência: 820 MOhms (+- 0,05%)
+97
+Resistência: 97 Ohms (+- 2%)
+5400000
+Resistência: 5,4 MOhms (+- 0,5%)
+3000000
+Resistência: 3 MOhms (+- 1%)
+8100
+Resistência: 8,1 kOhms (+- 5%)
+5400000
+Resistência: 5,4 MOhms (+- 0,1%)
+4200
+Resistência: 4,2 kOhms (+- 2%)
+4700
+Resistência: 4,7 kOhms (+- 0,05%)
+9100
+Resistência: 9,1 kOhms (+- 1%)
+3900000
+Resistência: 3,9 MOhms (+- 0,25%)
+1600
+Resistência: 1,6 kOhms (+- 0,1%)
+270000000
+Resistência: 270 MOhms (+- 0,05%)
+0
+Resistência: 0,83 Ohms (+- 0,25%)
+12
+Resistência: 12 Ohms (+- 0,25%)
+0
+Resistência: 0,58 Ohms (+- 1%)
+77000
+Resistência: 77 kOhms (+- 1%)
+58000
+Resistência: 58 kOhms (+- 5%)
+650000000
+Resistência: 650 MOhms (+- 10%)
+130000
+Resistência: 130 kOhms (+- 2%)
+58000000
+Resistência: 58 MOhms (+- 0,25%)
+310000
+Resistência: 310 kOhms (+- 2%)
+480
+Resistência: 480 Ohms (+- 0,05%)
+7800
+Resistência: 7,8 kOhms (+- 0,5%)
+72
+Resistência: 72 Ohms (+- 10%)
+880000000
+Resistência: 880 MOhms (+- 5%)
+0
+Resistência: 0,51 Ohms (+- 0,25%)
+1
+Resistência: 1,7 Ohms (+- 1%)
+47000
+Resistência: 47 kOhms (+- 0,25%)
+460000
+Resistência: 460 kOhms (+- 1%)
+86000000
+Resistência: 86 MOhms (+- 0,1%)
+1500000
+Resistência: 1,5 MOhms (+- 0,05%)
+6800000
+Resistência: 6,8 MOhms (+- 1%)
+17000000
+Resistência: 17 MOhms (+- 0,25%)
+11
+Resistência: 11 Ohms (+- 0,5%)
+24000
+Resistência: 24 kOhms (+- 0,05%)
+54000000
+Resistência: 54 MOhms (+- 5%)
+960
+Resistência: 960 Ohms (+- 5%)
+0
+Resistência: 0,9 Ohms (+- 1%)
+6
+Resistência: 6,4 Ohms (+- 0,5%)
+540
+Resistência: 540 Ohms (+- 0,05%)
+0
+Resistência: 0,81 Ohms (+- 10%)
+1400000
+Resistência: 1,4 MOhms (+- 10%)
+400000000
+Resistência: 400 MOhms (+- 0,1%)
+420000
+Resistência: 420 kOhms (+- 0,25%)
+20000000
+Resistência: 20 MOhms (+- 2%)
+15000
+Resistência: 15 kOhms (+- 0,1%)
+5
+Resistência: 5,1 Ohms (+- 1%)
+660000
+Resistência: 660 kOhms (+- 0,1%)
+0
+Resistência: 0,65 Ohms (+- 10%)
+0
+Resistência: 0,46 Ohms (+- 0,05%)
+370
+Resistência: 370 Ohms (+- 0,05%)
+190
+Resistência: 190 Ohms (+- 0,25%)
+0
+Resistência: 0,23 Ohms (+- 2%)
+120000
+Resistência: 120 kOhms (+- 1%)
+390000
+Resistência: 390 kOhms (+- 1%)
+32000
+Resistência: 32 kOhms (+- 5%)
+70
+Resistência: 70 Ohms (+- 0,05%)
+64000000
+Resistência: 64 MOhms (+- 2%)
+530000000
+Resistência: 530 MOhms (+- 0,05%)
+9300
+Resistência: 9,3 kOhms (+- 5%)
+3300
+Resistência: 3,3 kOhms (+- 1%)
+89000
+Resistência: 89 kOhms (+- 2%)
+8500000
+Resistência: 8,5 MOhms (+- 2%)
+62000000
+Resistência: 62 MOhms (+- 2%)
+69000
+Resistência: 69 kOhms (+- 2%)
+48000
+Resistência: 48 kOhms (+- 10%)
+8800
+Resistência: 8,8 kOhms (+- 0,05%)
+57000
+Resistência: 57 kOhms (+- 0,5%)
+970
+Resistência: 970 Ohms (+- 0,05%)
+0
+Resistência: 0,42 Ohms (+- 0,25%)
+2
+Resistência: 2,1 Ohms (+- 10%)
+69
+Resistência: 69 Ohms (+- 5%)
+97000
+Resistência: 97 kOhms (+- 0,05%)
+7800
+Resistência: 7,8 kOhms (+- 5%)
+0
+Resistência: 0,66 Ohms (+- 2%)
+490
+Resistência: 490 Ohms (+- 10%)
+86
+Resistência: 86 Ohms (+- 2%)
+37
+Resistência: 37 Ohms (+- 0,25%)
+8000000
+Resistência: 8 MOhms (+- 2%)
+630
+Resistência: 630 Ohms (+- 2%)
+88000
+Resistência: 88 kOhms (+- 5%)
+2
+Resistência: 2,1 Ohms (+- 0,25%)
+2100
+Resistência: 2,1 kOhms (+- 5%)
+0
+Resistência: 0,55 Ohms (+- 0,25%)
+820000
+Resistência: 820 kOhms (+- 0,25%)
+18000
+Resistência: 18 kOhms (+- 1%)
+6700
+Resistência: 6,7 kOhms (+- 0,5%)
+280
+Resistência: 280 Ohms (+- 0,25%)
+1
+Resistência: 1,6 Ohms (+- 2%)
+650000000
+Resistência: 650 MOhms (+- 0,25%)
+100
+Resistência: 100 Ohms (+- 2%)
+3500
+Resistência: 3,5 kOhms (+- 0,5%)
+0
+Resistência: 0,58 Ohms (+- 0,1%)
+640000
+Resistência: 640 kOhms (+- 2%)
+28
+Resistência: 28 Ohms (+- 5%)
+0
+Resistência: 0,73 Ohms (+- 0,1%)
+0
+Resistência: 0,64 Ohms (+- 0,05%)
+0
+Resistência: 0,52 Ohms (+- 0,5%)
+89000000
+Resistência: 89 MOhms (+- 0,5%)
+26000
+Resistência: 26 kOhms (+- 0,5%)
+4
+Resistência: 4,7 Ohms (+- 0,1%)
+5900
+Resistência: 5,9 kOhms (+- 0,05%)
+400000
+Resistência: 400 kOhms (+- 2%)
+300000
+Resistência: 300 kOhms (+- 0,25%)
+250000000
+Resistência: 250 MOhms (+- 0,25%)
+700000000
+Resistência: 700 MOhms (+- 0,05%)
+4
+Resistência: 4,6 Ohms (+- 0,05%)
+7
+Resistência: 7,1 Ohms (+- 1%)
+0
+Resistência: 0,69 Ohms (+- 0,25%)
+42000
+Resistência: 42 kOhms (+- 10%)
+92
+Resistência: 92 Ohms (+- 0,5%)
+4
+Resistência: 4,1 Ohms (+- 5%)
+200
+Resistência: 200 Ohms (+- 5%)
+43
+Resistência: 43 Ohms (+- 0,25%)
+14000000
+Resistência: 14 MOhms (+- 10%)
+25000000
+Resistência: 25 MOhms (+- 1%)
+330
+Resistência: 330 Ohms (+- 0,1%)
+9100000
+Resistência: 9,1 MOhms (+- 2%)
+210000000
+Resistência: 210 MOhms (+- 0,05%)
+8
+Resistência: 8,9 Ohms (+- 0,1%)
+200
+Resistência: 200 Ohms (+- 2%)
+720
+Resistência: 720 Ohms (+- 0,05%)
+78
+Resistência: 78 Ohms (+- 10%)
+0
+Resistência: 0,22 Ohms (+- 1%)
+280
+Resistência: 280 Ohms (+- 0,5%)
+720000
+Resistência: 720 kOhms (+- 0,5%)
+21000000
+Resistência: 21 MOhms (+- 0,05%)
+10
+Resistência: 10 Ohms (+- 2%)
+57
+Resistência: 57 Ohms (+- 0,5%)
+460000
+Resistência: 460 kOhms (+- 0,25%)
+67000000
+Resistência: 67 MOhms (+- 0,5%)
+4900000
+Resistência: 4,9 MOhms (+- 10%)
+33000000
+Resistência: 33 MOhms (+- 0,25%)
+9400
+Resistência: 9,4 kOhms (+- 0,25%)
+6300
+Resistência: 6,3 kOhms (+- 5%)
+0
+Resistência: 0,18 Ohms (+- 0,25%)
+2400000
+Resistência: 2,4 MOhms (+- 0,5%)
+1100000
+Resistência: 1,1 MOhms (+- 0,25%)
+6100000
+Resistência: 6,1 MOhms (+- 10%)
+9100
+Resistência: 9,1 kOhms (+- 0,25%)
+1
+Resistência: 1,2 Ohms (+- 0,1%)
+670
+Resistência: 670 Ohms (+- 5%)
+8000000
+Resistência: 8 MOhms (+- 10%)
+10
+Resistência: 10 Ohms (+- 5%)
+3
+Resistência: 3,8 Ohms (+- 0,5%)
+75000000
+Resistência: 75 MOhms (+- 2%)
+82
+Resistência: 82 Ohms (+- 1%)
+2800000
+Resistência: 2,8 MOhms (+- 10%)
+19
+Resistência: 19 Ohms (+- 0,05%)
+8
+Resistência: 8,3 Ohms (+- 0,5%)
+0
+Resistência: 0,48 Ohms (+- 5%)
+6400
+Resistência: 6,4 kOhms (+- 2%)
+8700000
+Resistência: 8,7 MOhms (+- 0,1%)
+4
+Resistência: 4 Ohms (+- 1%)
+1
+Resistência: 1 Ohms (+- 10%)
+5600000
+Resistência: 5,6 MOhms (+- 5%)
+3800
+Resistência: 3,8 kOhms (+- 0,05%)
+84000000
+Resistência: 84 MOhms (+- 0,25%)
+98
+Resistência: 98 Ohms (+- 0,1%)
+6200000
+Resistência: 6,2 MOhms (+- 2%)
+4200
+Resistência: 4,2 kOhms (+- 0,25%)
+9000
+Resistência: 9 kOhms (+- 2%)
+16000000
+Resistência: 16 MOhms (+- 0,1%)
+0
+Resistência: 0,34 Ohms (+- 1%)
+0
+Resistência: 0,24 Ohms (+- 0,5%)
+46000000
+Resistência: 46 MOhms (+- 0,25%)
+6500
+Resistência: 6,5 kOhms (+- 5%)
+210000000
+Resistência: 210 MOhms (+- 0,25%)
+8
+Resistência: 8,2 Ohms (+- 0,05%)
+56000000
+Resistência: 56 MOhms (+- 0,5%)
+10000000
+Resistência: 10 MOhms (+- 10%)
+0
+Resistência: 0,12 Ohms (+- 0,5%)
+9
+Resistência: 9,1 Ohms (+- 2%)
+7200
+Resistência: 7,2 kOhms (+- 0,5%)
+8400000
+Resistência: 8,4 MOhms (+- 10%)
+6300000
+Resistência: 6,3 MOhms (+- 0,25%)
+530000
+Resistência: 530 kOhms (+- 0,05%)
+6000000
+Resistência: 6 MOhms (+- 0,05%)
+3700
+Resistência: 3,7 kOhms (+- 0,05%)
+12
+Resistência: 12 Ohms (+- 0,25%)
+370000
+Resistência: 370 kOhms (+- 10%)
+49000
+Resistência: 49 kOhms (+- 0,05%)
+8500
+Resistência: 8,5 kOhms (+- 0,05%)
+520000000
+Resistência: 520 MOhms (+- 1%)
+0
+Resistência: 0,5 Ohms (+- 0,1%)
+980000
+Resistência: 980 kOhms (+- 0,5%)
+2
+Resistência: 2,1 Ohms (+- 10%)
+32
+Resistência: 32 Ohms (+- 0,25%)
+2900
+Resistência: 2,9 kOhms (+- 0,1%)
+3
+Resistência: 3,3 Ohms (+- 2%)
+0
+Resistência: 0,4 Ohms (+- 1%)
+0
+Resistência: 0,99 Ohms (+- 0,1%)
+1800000
+Resistência: 1,8 MOhms (+- 0,25%)
+3
+Resistência: 3,9 Ohms (+- 5%)
+5300000
+Resistência: 5,3 MOhms (+- 2%)
+26000000
+Resistência: 26 MOhms (+- 10%)
+26000000
+Resistência: 26 MOhms (+- 0,25%)
+9
+Resistência: 9 Ohms (+- 1%)
+74000000
+Resistência: 74 MOhms (+- 1%)
+930000000
+Resistência: 930 MOhms (+- 0,1%)
+590000
+Resistência: 590 kOhms (+- 0,1%)
+0
+Resistência: 0,19 Ohms (+- 0,05%)
+7000000
+Resistência: 7 MOhms (+- 5%)
+0
+Resistência: 0,49 Ohms (+- 5%)
+390
+Resistência: 390 Ohms (+- 10%)
+70000
+Resistência: 70 kOhms (+- 0,25%)
+200000000
+Resistência: 200 MOhms (+- 0,1%)
+0
+Resistência: 0,45 Ohms (+- 2%)
+30000
+Resistência: 30 kOhms (+- 10%)
+76
+Resistência: 76 Ohms (+- 0,1%)
+0
+Resistência: 0,78 Ohms (+- 0,5%)
+4100000
+Resistência: 4,1 MOhms (+- 5%)
+23000000
+Resistência: 23 MOhms (+- 1%)
+7500
+Resistência: 7,5 kOhms (+- 1%)
+470000
+Resistência: 470 kOhms (+- 5%)
+380000
+Resistência: 380 kOhms (+- 0,1%)
+2
+Resistência: 2,4 Ohms (+- 0,5%)
+45000
+Resistência: 45 kOhms (+- 1%)
+2
+Resistência: 2,6 Ohms (+- 0,25%)
+30
+Resistência: 30 Ohms (+- 2%)
+0
+Resistência: 0,9 Ohms (+- 10%)
+3800
+Resistência: 3,8 kOhms (+- 0,05%)
+3400
+Resistência: 3,4 kOhms (+- 0,5%)
+310000
+Resistência: 310 kOhms (+- 1%)
+4
+Resistência: 4,7 Ohms (+- 1%)
+55000000
+Resistência: 55 MOhms (+- 0,1%)
+4900
+Resistência: 4,9 kOhms (+- 5%)
+570
+Resistência: 570 Ohms (+- 0,05%)
+6300
+Resistência: 6,3 kOhms (+- 2%)
+460000
+Resistência: 460 kOhms (+- 1%)
+0
+Resistência: 0,93 Ohms (+- 1%)
+2700
+Resistência: 2,7 kOhms (+- 5%)
+78
+Resistência: 78 Ohms (+- 0,5%)
+17
+Resistência: 17 Ohms (+- 2%)
+960
+Resistência: 960 Ohms (+- 0,25%)
+0
+Resistência: 0,27 Ohms (+- 0,1%)
+430000
+Resistência: 430 kOhms (+- 0,25%)
+300000
+Resistência: 300 kOhms (+- 0,25%)
+730000000
+Resistência: 730 MOhms (+- 0,5%)
+550000
+Resistência: 550 kOhms (+- 2%)
+90
+Resistência: 90 Ohms (+- 0,5%)
+670000000
+Resistência: 670 MOhms (+- 0,25%)
+3
+Resistência: 3,1 Ohms (+- 1%)
+44000
+Resistência: 44 kOhms (+- 10%)
+84000
+Resistência: 84 kOhms (+- 2%)
+600000
+Resistência: 600 kOhms (+- 0,5%)
+350000000
+Resistência: 350 MOhms (+- 1%)
+5
+Resistência: 5,3 Ohms (+- 10%)
+5500000
+Resistência: 5,5 MOhms (+- 10%)
+9800000
+Resistência: 9,8 MOhms (+- 0,25%)
+41000
+Resistência: 41 kOhms (+- 0,5%)
+73
+Resistência: 73 Ohms (+- 2%)
+420
+Resistência: 420 Ohms (+- 0,1%)
+480000
+Resistência: 480 kOhms (+- 1%)
+110
+Resistência: 110 Ohms (+- 0,5%)
+61000000
+Resistência: 61 MOhms (+- 10%)
+8800
+Resistência: 8,8 kOhms (+- 10%)
+450000
+Resistência: 450 kOhms (+- 2%)
+1300
+Resistência: 1,3 kOhms (+- 0,5%)
+0
+Resistência: 0,69 Ohms (+- 0,1%)
+6
+Resistência: 6 Ohms (+- 2%)
+82000000
+Resistência: 82 MOhms (+- 0,25%)
+900000000
+Resistência: 900 MOhms (+- 0,5%)
+3
+Resistência: 3,9 Ohms (+- 0,5%)
+50000000
+Resistência: 50 MOhms (+- 2%)
+78000000
+Resistência: 78 MOhms (+- 10%)
+3700000
+Resistência: 3,7 MOhms (+- 5%)
+0
+Resistência: 0,73 Ohms (+- 10%)
+860
+Resistência: 860 Ohms (+- 10%)
+0
+Resistência: 0,65 Ohms (+- 10%)
+37
+Resistência: 37 Ohms (+- 0,5%)
+570000
+Resistência: 570 kOhms (+- 0,25%)
+8000000
+Resistência: 8 MOhms (+- 2%)
+6
+Resistência: 6 Ohms (+- 5%)
+100000000
+Resistência: 100 MOhms (+- 1%)
+83000000
+Resistência: 83 MOhms (+- 10%)
+0
+Resistência: 0,24 Ohms (+- 0,1%)
+78
+Resistência: 78 Ohms (+- 5%)
+2800
+Resistência: 2,8 kOhms (+- 0,5%)
+5
+Resistência: 5,8 Ohms (+- 10%)
+370000000
+Resistência: 370 MOhms (+- 0,1%)
+380000000
+Resistência: 380 MOhms (+- 1%)
+5
+Resistência: 5,7 Ohms (+- 0,25%)
+710000000
+Resistência: 710 MOhms (+- 0,05%)
+0
+Resistência: 0,34 Ohms (+- 0,1%)
+0
+Resistência: 0,22 Ohms (+- 1%)
+72
+Resistência: 72 Ohms (+- 0,05%)
+660000000
+Resistência: 660 MOhms (+- 10%)
+5
+Resistência: 5,9 Ohms (+- 0,1%)
+9700
+Resistência: 9,7 kOhms (+- 0,5%)
+660000000
+Resistência: 660 MOhms (+- 10%)
+0
+Resistência: 0,31 Ohms (+- 5%)
+85000
+Resistência: 85 kOhms (+- 1%)
+33000000
+Resistência: 33 MOhms (+- 10%)
+220000000
+Resistência: 220 MOhms (+- 2%)
+53000000
+Resistência: 53 MOhms (+- 10%)
+0
+Resistência: 0,84 Ohms (+- 0,1%)
+79000000
+Resistência: 79 MOhms (+- 5%)
+6400000
+Resistência: 6,4 MOhms (+- 5%)
+92000
+Resistência: 92 kOhms (+- 2%)
+0
+Resistência: 0,86 Ohms (+- 10%)
+0
+Resistência: 0,61 Ohms (+- 0,25%)
+68000000
+Resistência: 68 MOhms (+- 0,1%)
+420
+Resistência: 420 Ohms (+- 5%)
+85000
+Resistência: 85 kOhms (+- 1%)
+98
+Resistência: 98 Ohms (+- 0,05%)
+0
+Resistência: 0,84 Ohms (+- 10%)
+660
+Resistência: 660 Ohms (+- 2%)
+8
+Resistência: 8 Ohms (+- 10%)
+540
+Resistência: 540 Ohms (+- 2%)
+43
+Resistência: 43 Ohms (+- 0,25%)
+49800000
+Resistência: 49,8 MOhms (+- 10%)
+48500
+Resistência: 48,5 kOhms (+- 10%)
+912
+Resistência: 912 Ohms (+- 2%)
+715
+Resistência: 715 Ohms (+- 0,5%)
+116000
+Resistência: 116 kOhms (+- 0,25%)
+8720
+Resistência: 8,72 kOhms (+- 0,05%)
+4110
+Resistência: 4,11 kOhms (+- 0,5%)
+349000000
+Resistência: 349 MOhms (+- 1%)
+80900
+Resistência: 80,9 kOhms (+- 0,5%)
+96
+Resistência: 96,8 Ohms (+- 0,05%)
+394000000
+Resistência: 394 MOhms (+- 0,25%)
+32
+Resistência: 32,2 Ohms (+- 0,1%)
+37
+Resistência: 37,3 Ohms (+- 1%)
+1310000000
+Resistência: 1310 MOhms (+- 10%)
+9230
+Resistência: 9,23 kOhms (+- 10%)
+702000000
+Resistência: 702 MOhms (+- 0,1%)
+3910000000
+Resistência: 3910 MOhms (+- 1%)
+6810000
+Resistência: 6,81 MOhms (+- 10%)
+76
+Resistência: 76,3 Ohms (+- 0,25%)
+42
+Resistência: 42,6 Ohms (+- 1%)
+60600000
+Resistência: 60,6 MOhms (+- 0,1%)
+635
+Resistência: 635 Ohms (+- 2%)
+787
+Resistência: 787 Ohms (+- 5%)
+818000000
+Resistência: 818 MOhms (+- 0,5%)
+5060000
+Resistência: 5,06 MOhms (+- 0,5%)
+6
+Resistência: 6,82 Ohms (+- 0,25%)
+55100000
+Resistência: 55,1 MOhms (+- 10%)
+2230
+Resistência: 2,23 kOhms (+- 0,05%)
+775
+Resistência: 775 Ohms (+- 0,25%)
+746
+Resistência: 746 Ohms (+- 10%)
+548000
+Resistência: 548 kOhms (+- 10%)
+1
+Resistência: 1,73 Ohms (+- 0,5%)
+108000000
+Resistência: 108 MOhms (+- 0,1%)
+9520
+Resistência: 9,52 kOhms (+- 0,25%)
+93
+Resistência: 93,8 Ohms (+- 0,5%)
+86900
+Resistência: 86,9 kOhms (+- 2%)
+98500
+Resistência: 98,5 kOhms (+- 5%)
+8
+Resistência: 8,44 Ohms (+- 0,1%)
+3
+Resistência: 3,02 Ohms (+- 0,5%)
+83
+Resistência: 83,2 Ohms (+- 0,25%)
+750000
+Resistência: 750 kOhms (+- 1%)
+14100000
+Resistência: 14,1 MOhms (+- 1%)
+27800
+Resistência: 27,8 kOhms (+- 0,5%)
+601000
+Resistência: 601 kOhms (+- 10%)
+35
+Resistência: 35,9 Ohms (+- 0,5%)
+516000000
+Resistência: 516 MOhms (+- 0,5%)
+43
+Resistência: 43,7 Ohms (+- 0,1%)
+77
+Resistência: 77,7 Ohms (+- 1%)
+927000
+Resistência: 927 kOhms (+- 10%)
+246
+Resistência: 246 Ohms (+- 0,5%)
+20
+Resistência: 20,5 Ohms (+- 2%)
+4
+Resistência: 4,74 Ohms (+- 0,25%)
+49500000
+Resistência: 49,5 MOhms (+- 5%)
+60900
+Resistência: 60,9 kOhms (+- 0,05%)
+62900
+Resistência: 62,9 kOhms (+- 0,25%)
+16300000
+Resistência: 16,3 MOhms (+- 0,1%)
+5540000000
+Resistência: 5540 MOhms (+- 2%)
+6350000
+Resistência: 6,35 MOhms (+- 0,5%)
+30100000
+Resistência: 30,1 MOhms (+- 0,05%)
+9310000
+Resistência: 9,31 MOhms (+- 5%)
+173000000
+Resistência: 173 MOhms (+- 1%)
+9
+Resistência: 9,02 Ohms (+- 0,05%)
+721
+Resistência: 721 Ohms (+- 1%)
+549000000
+Resistência: 549 MOhms (+- 0,05%)
+147
+Resistência: 147 Ohms (+- 5%)
+1
+Resistência: 1,39 Ohms (+- 0,1%)
+551000
+Resistência: 551 kOhms (+- 0,05%)
+9270000000
+Resistência: 9270 MOhms (+- 0,5%)
+4160
+Resistência: 4,16 kOhms (+- 10%)
+7
+Resistência: 7,54 Ohms (+- 10%)
+6920000
+Resistência: 6,92 MOhms (+- 10%)
+3200000
+Resistência: 3,2 MOhms (+- 2%)
+2
+Resistência: 2,8 Ohms (+- 0,05%)
+3720000
+Resistência: 3,72 MOhms (+- 0,1%)
+8980000000
+Resistência: 8980 MOhms (+- 2%)
+36700000
+Resistência: 36,7 MOhms (+- 5%)
+2
+Resistência: 2,08 Ohms (+- 5%)
+33800
+Resistência: 33,8 kOhms (+- 0,05%)
+2690000
+Resistência: 2,69 MOhms (+- 2%)
+5320000000
+Resistência: 5320 MOhms (+- 0,25%)
+6860000000
+Resistência: 6860 MOhms (+- 2%)
+21400
+Resistência: 21,4 kOhms (+- 0,05%)
+4040000000
+Resistência: 4040 MOhms (+- 0,05%)
+3390000000
+Resistência: 3390 MOhms (+- 0,5%)
+84
+Resistência: 84,3 Ohms (+- 0,25%)
+493000000
+Resistência: 493 MOhms (+- 0,05%)
+5700000000
+Resistência: 5700 MOhms (+- 1%)
+9490000000
+Resistência: 9490 MOhms (+- 0,1%)
+9170000
+Resistência: 9,17 MOhms (+- 0,25%)
+7870000000
+Resistência: 7870 MOhms (+- 0,5%)
+30600000
+Resistência: 30,6 MOhms (+- 0,05%)
+74800000
+Resistência: 74,8 MOhms (+- 2%)
+8680000000
+Resistência: 8680 MOhms (+- 5%)
+10400
+Resistência: 10,4 kOhms (+- 2%)
+96500000
+Resistência: 96,5 MOhms (+- 0,5%)
+59
+Resistência: 59,5 Ohms (+- 0,05%)
+78200000
+Resistência: 78,2 MOhms (+- 0,05%)
+49000
+Resistência: 49 kOhms (+- 2%)
+2560
+Resistência: 2,56 kOhms (+- 10%)
+511000000
+Resistência: 511 MOhms (+- 5%)
+937000
+Resistência: 937 kOhms (+- 5%)
+7010
+Resistência: 7,01 kOhms (+- 0,05%)
+7120000000
+Resistência: 7120 MOhms (+- 10%)
+789
+Resistência: 789 Ohms (+- 0,5%)
+537000
+Resistência: 537 kOhms (+- 0,5%)
+923000000
+Resistência: 923 MOhms (+- 0,5%)
+25200
+Resistência: 25,2 kOhms (+- 0,5%)
+32
+Resistência: 32,4 Ohms (+- 2%)
+3
+Resistência: 3,34 Ohms (+- 0,25%)
+10800000
+Resistência: 10,8 MOhms (+- 10%)
+5650000000
+Resistência: 5650 MOhms (+- 10%)
+3
+Resistência: 3,23 Ohms (+- 0,05%)
+91
+Resistência: 91,6 Ohms (+- 5%)
+13500
+Resistência: 13,5 kOhms (+- 5%)
+8980000
+Resistência: 8,98 MOhms (+- 10%)
+3190000
+Resistência: 3,19 MOhms (+- 1%)
+686000
+Resistência: 686 kOhms (+- 10%)
+708000000
+Resistência: 708 MOhms (+- 0,05%)
+709000
+Resistência: 709 kOhms (+- 1%)
+4
+Resistência: 4,29 Ohms (+- 0,05%)
+7
+Resistência: 7,32 Ohms (+- 0,5%)
+9
+Resistência: 9,4 Ohms (+- 2%)
+3440000
+Resistência: 3,44 MOhms (+- 0,05%)
+122000000
+Resistência: 122 MOhms (+- 5%)
+87
+Resistência: 87,3 Ohms (+- 2%)
+56300
+Resistência: 56,3 kOhms (+- 0,5%)
+1780000
+Resistência: 1,78 MOhms (+- 2%)
+425000000
+Resistência: 425 MOhms (+- 1%)
+451000
+Resistência: 451 kOhms (+- 0,1%)
+9
+Resistência: 9,77 Ohms (+- 5%)
+304
+Resistência: 304 Ohms (+- 10%)
+764000
+Resistência: 764 kOhms (+- 5%)
+745000
+Resistência: 745 kOhms (+- 0,05%)
+94900000
+Resistência: 94,9 MOhms (+- 0,05%)
+229000000
+Resistência: 229 MOhms (+- 2%)
+881
+Resistência: 881 Ohms (+- 0,1%)
+92100000
+Resistência: 92,1 MOhms (+- 0,05%)
+80400
+Resistência: 80,4 kOhms (+- 0,25%)
+68900
+Resistência: 68,9 kOhms (+- 0,25%)
+290000
+Resistência: 290 kOhms (+- 1%)
+71
+Resistência: 71,6 Ohms (+- 0,05%)
+27
+Resistência: 27 Ohms (+- 2%)
+657
+Resistência: 657 Ohms (+- 10%)
+5880000000
+Resistência: 5880 MOhms (+- 1%)
+445
+Resistência: 445 Ohms (+- 5%)
+327000
+Resistência: 327 kOhms (+- 0,1%)
+59800
+Resistência: 59,8 kOhms (+- 5%)
+22100
+Resistência: 22,1 kOhms (+- 5%)
+9
+Resistência: 9,45 Ohms (+- 0,05%)
+772
+Resistência: 772 Ohms (+- 2%)
+30
+Resistência: 30,7 Ohms (+- 1%)
+4
+Resistência: 4,47 Ohms (+- 0,1%)
+79
+Resistência: 79,1 Ohms (+- 5%)
+855000
+Resistência: 855 kOhms (+- 5%)
+809
+Resistência: 809 Ohms (+- 0,1%)
+159
+Resistência: 159 Ohms (+- 0,5%)
+75500
+Resistência: 75,5 kOhms (+- 1%)
+5570
+Resistência: 5,57 kOhms (+- 0,05%)
+84100000
+Resistência: 84,1 MOhms (+- 0,1%)
+9
+Resistência: 9,94 Ohms (+- 0,05%)
+7180
+Resistência: 7,18 kOhms (+- 0,5%)
+858000000
+Resistência: 858 MOhms (+- 0,05%)
+10
+Resistência: 10,3 Ohms (+- 0,05%)
+93000
+Resistência: 93 kOhms (+- 0,1%)
+3
+Resistência: 3,21 Ohms (+- 0,05%)
+9
+Resistência: 9,72 Ohms (+- 5%)
+7
+Resistência: 7,77 Ohms (+- 10%)
+909000000
+Resistência: 909 MOhms (+- 0,1%)
+97700
+Resistência: 97,7 kOhms (+- 2%)
+47600
+Resistência: 47,6 kOhms (+- 0,1%)
+663000000
+Resistência: 663 MOhms (+- 0,1%)
+304000000
+Resistência: 304 MOhms (+- 0,25%)
+28700000
+Resistência: 28,7 MOhms (+- 0,05%)
+1
+Resistência: 1,8 Ohms (+- 5%)
+3200000
+Resistência: 3,2 MOhms (+- 10%)
+4160
+Resistência: 4,16 kOhms (+- 5%)
+722000000
+Resistência: 722 MOhms (+- 0,05%)
+5
+Resistência: 5,51 Ohms (+- 2%)
+366000000
+Resistência: 366 MOhms (+- 0,05%)
+4170000
+Resistência: 4,17 MOhms (+- 5%)
+11100
+Resistência: 11,1 kOhms (+- 2%)
+645000000
+Resistência: 645 MOhms (+- 2%)
+9750
+Resistência: 9,75 kOhms (+- 10%)
+89300000
+Resistência: 89,3 MOhms (+- 1%)
+69200000
+Resistência: 69,2 MOhms (+- 5%)
+5910000
+Resistência: 5,91 MOhms (+- 10%)
+2490
+Resistência: 2,49 kOhms (+- 0,5%)
+4630
+Resistência: 4,63 kOhms (+- 0,1%)
+27400
+Resistência: 27,4 kOhms (+- 0,5%)
+918000
+Resistência: 918 kOhms (+- 0,1%)
+8300000000
+Resistência: 8300 MOhms (+- 0,05%)
+222000
+Resistência: 222 kOhms (+- 2%)
+61
+Resistência: 61,5 Ohms (+- 10%)
+5830000
+Resistência: 5,83 MOhms (+- 2%)
+82000
+Resistência: 82 kOhms (+- 5%)
+599000
+Resistência: 599 kOhms (+- 0,05%)
+6530000
+Resistência: 6,53 MOhms (+- 0,05%)
+562
+Resistência: 562 Ohms (+- 2%)
+99700000
+Resistência: 99,7 MOhms (+- 0,1%)
+99700
+Resistência: 99,7 kOhms (+- 5%)
+86
+Resistência: 86,6 Ohms (+- 10%)
+29300000
+Resistência: 29,3 MOhms (+- 5%)
+2740000
+Resistência: 2,74 MOhms (+- 5%)
+46200000
+Resistência: 46,2 MOhms (+- 0,05%)
+65000
+Resistência: 65 kOhms (+- 5%)
+736000000
+Resistência: 736 MOhms (+- 1%)
+661000
+Resistência: 661 kOhms (+- 0,5%)
+29400
+Resistência: 29,4 kOhms (+- 1%)
+63
+Resistência: 63,3 Ohms (+- 5%)
+99100
+Resistência: 99,1 kOhms (+- 0,05%)
+31
+Resistência: 31,1 Ohms (+- 2%)
+759
+Resistência: 759 Ohms (+- 10%)
+2910000000
+Resistência: 2910 MOhms (+- 5%)
+972
+Resistência: 972 Ohms (+- 5%)
+3620000000
+Resistência: 3620 MOhms (+- 0,25%)
+872
+Resistência: 872 Ohms (+- 1%)
+6000
+Resistência: 6 kOhms (+- 10%)
+2
+Resistência: 2,75 Ohms (+- 2%)
+52200
+Resistência: 52,2 kOhms (+- 0,1%)
+755000000
+Resistência: 755 MOhms (+- 0,1%)
+2290000000
+Resistência: 2290 MOhms (+- 1%)
+80000
+Resistência: 80 kOhms (+- 0,25%)
+872
+Resistência: 872 Ohms (+- 0,5%)
+7300000000
+Resistência: 7300 MOhms (+- 0,5%)
+8210000
+Resistência: 8,21 MOhms (+- 0,05%)
+172000
+Resistência: 172 kOhms (+- 10%)
+1010000
+Resistência: 1,01 MOhms (+- 5%)
+20
+Resistência: 20,9 Ohms (+- 0,5%)
+5370000
+Resistência: 5,37 MOhms (+- 0,25%)
+2040000000
+Resistência: 2040 MOhms (+- 5%)
+989000
+Resistência: 989 kOhms (+- 0,05%)
+9760
+Resistência: 9,76 kOhms (+- 1%)
+1420000
+Resistência: 1,42 MOhms (+- 1%)
+15300
+Resistência: 15,3 kOhms (+- 2%)
+64000000
+Resistência: 64 MOhms (+- 0,25%)
+843000000
+Resistência: 843 MOhms (+- 1%)
+1370000
+Resistência: 1,37 MOhms (+- 1%)
+4680
+Resistência: 4,68 kOhms (+- 0,05%)
+23
+Resistência: 23,3 Ohms (+- 1%)
+492000000
+Resistência: 492 MOhms (+- 0,5%)
+262000000
+Resistência: 262 MOhms (+- 0,1%)
+339000000
+Resistência: 339 MOhms (+- 0,05%)
+627000000
+Resistência: 627 MOhms (+- 5%)
+2950000
+Resistência: 2,95 MOhms (+- 0,05%)
+7750000
+Resistência: 7,75 MOhms (+- 2%)
+4870000
+Resistência: 4,87 MOhms (+- 2%)
+623
+Resistência: 623 Ohms (+- 1%)
+89400000
+Resistência: 89,4 MOhms (+- 0,1%)
+6230
+Resistência: 6,23 kOhms (+- 10%)
+6
+Resistência: 6,25 Ohms (+- 5%)
+1400000
+Resistência: 1,4 MOhms (+- 1%)
+1590
+Resistência: 1,59 kOhms (+- 10%)
+4740
+Resistência: 4,74 kOhms (+- 0,5%)
+477
+Resistência: 477 Ohms (+- 0,5%)
+631000000
+Resistência: 631 MOhms (+- 5%)
+78100000
+Resistência: 78,1 MOhms (+- 5%)
+949
+Resistência: 949 Ohms (+- 0,25%)
+77
+Resistência: 77 Ohms (+- 1%)
+7680
+Resistência: 7,68 kOhms (+- 0,25%)
+7500000000
+Resistência: 7500 MOhms (+- 0,25%)
+73000000
+Resistência: 73 MOhms (+- 0,25%)
+7540
+Resistência: 7,54 kOhms (+- 1%)
+836000
+Resistência: 836 kOhms (+- 0,5%)
+5390000
+Resistência: 5,39 MOhms (+- 1%)
+2980
+Resistência: 2,98 kOhms (+- 5%)
+582000000
+Resistência: 582 MOhms (+- 5%)
+517000
+Resistência: 517 kOhms (+- 0,1%)
+7080000000
+Resistência: 7080 MOhms (+- 0,25%)
+1180000000
+Resistência: 1180 MOhms (+- 0,1%)
+865000000
+Resistência: 865 MOhms (+- 0,5%)
+867
+Resistência: 867 Ohms (+- 0,1%)
+6050000
+Resistência: 6,05 MOhms (+- 0,05%)
+4900000000
+Resistência: 4900 MOhms (+- 0,1%)
+5910
+Resistência: 5,91 kOhms (+- 0,1%)
+214
+Resistência: 214 Ohms (+- 5%)
+5030
+Resistência: 5,03 kOhms (+- 2%)
+129
+Resistência: 129 Ohms (+- 5%)
+956000
+Resistência: 956 kOhms (+- 0,25%)
+383000000
+Resistência: 383 MOhms (+- 0,1%)
+35
+Resistência: 35,4 Ohms (+- 0,05%)
+67600000
+Resistência: 67,6 MOhms (+- 2%)
+3440
+Resistência: 3,44 kOhms (+- 0,25%)
+2170000000
+Resistência: 2170 MOhms (+- 10%)
+8
+Resistência: 8,37 Ohms (+- 0,25%)
+7510000
+Resistência: 7,51 MOhms (+- 0,25%)
+647
+Resistência: 647 Ohms (+- 0,25%)
+73800
+Resistência: 73,8 kOhms (+- 2%)
+8040000000
+Resistência: 8040 MOhms (+- 0,25%)
+319000
+Resistência: 319 kOhms (+- 0,5%)
+6890000
+Resistência: 6,89 MOhms (+- 0,25%)
+6450000000
+Resistência: 6450 MOhms (+- 2%)
+8500000000
+Resistência: 8500 MOhms (+- 1%)
+79
+Resistência: 79,1 Ohms (+- 10%)
+518
+Resistência: 518 Ohms (+- 2%)
+85
+Resistência: 85,4 Ohms (+- 10%)
+93500000
+Resistência: 93,5 MOhms (+- 10%)
+2120
+Resistência: 2,12 kOhms (+- 2%)
+5380000000
+Resistência: 5380 MOhms (+- 0,25%)
+667000000
+Resistência: 667 MOhms (+- 1%)
+755000
+Resistência: 755 kOhms (+- 0,1%)
+42400000
+Resistência: 42,4 MOhms (+- 1%)
+6610000000
+Resistência: 6610 MOhms (+- 2%)
+967000000
+Resistência: 967 MOhms (+- 0,5%)
+42400000
+Resistência: 42,4 MOhms (+- 10%)
+8
+Resistência: 8,45 Ohms (+- 1%)
+658000000
+Resistência: 658 MOhms (+- 5%)
+69800000
+Resistência: 69,8 MOhms (+- 0,05%)
+4170
+Resistência: 4,17 kOhms (+- 2%)
+83800
+Resistência: 83,8 kOhms (+- 2%)
+46400000
+Resistência: 46,4 MOhms (+- 0,05%)
+52300
+Resistência: 52,3 kOhms (+- 5%)
+7440000000
+Resistência: 7440 MOhms (+- 1%)
+770000000
+Resistência: 770 MOhms (+- 1%)
+6
+Resistência: 6,55 Ohms (+- 0,1%)
+783000
+Resistência: 783 kOhms (+- 1%)
+6
+Resistência: 6,45 Ohms (+- 0,05%)
+302000000
+Resistência: 302 MOhms (+- 5%)
+9880000
+Resistência: 9,88 MOhms (+- 0,05%)
+743000000
+Resistência: 743 MOhms (+- 0,05%)
+638
+Resistência: 638 Ohms (+- 1%)
+1880000000
+Resistência: 1880 MOhms (+- 5%)
+605000000
+Resistência: 605 MOhms (+- 2%)
+264
+Resistência: 264 Ohms (+- 0,05%)
+97700000
+Resistência: 97,7 MOhms (+- 1%)
+56000000
+Resistência: 56 MOhms (+- 5%)
+4
+Resistência: 4,41 Ohms (+- 0,25%)
+21000
+Resistência: 21 kOhms (+- 5%)
+626000
+Resistência: 626 kOhms (+- 0,25%)
+568
+Resistência: 568 Ohms (+- 5%)
+765
+Resistência: 765 Ohms (+- 0,5%)
+3520000
+Resistência: 3,52 MOhms (+- 0,5%)
+5
+Resistência: 5,92 Ohms (+- 1%)
+3380000
+Resistência: 3,38 MOhms (+- 0,25%)
+26
+Resistência: 26,2 Ohms (+- 1%)
+8310000
+Resistência: 8,31 MOhms (+- 0,5%)
+1620000000
+Resistência: 1620 MOhms (+- 0,5%)
+7810000000
+Resistência: 7810 MOhms (+- 0,05%)
+6
+Resistência: 6,13 Ohms (+- 0,1%)
+201000000
+Resistência: 201 MOhms (+- 0,25%)
+652000000
+Resistência: 652 MOhms (+- 0,5%)
+9390
+Resistência: 9,39 kOhms (+- 0,5%)
+9930000000
+Resistência: 9930 MOhms (+- 0,05%)
+8380000000
+Resistência: 8380 MOhms (+- 2%)
+44500000
+Resistência: 44,5 MOhms (+- 0,1%)
+6200000
+Resistência: 6,2 MOhms (+- 0,05%)
+96
+Resistência: 96,4 Ohms (+- 5%)
+536000000
+Resistência: 536 MOhms (+- 2%)
+263
+Resistência: 263 Ohms (+- 0,1%)
+9350
+Resistência: 9,35 kOhms (+- 0,5%)
+53
+Resistência: 53,3 Ohms (+- 10%)
+577000
+Resistência: 577 kOhms (+- 0,05%)
+4270000000
+Resistência: 4270 MOhms (+- 5%)
+8
+Resistência: 8,28 Ohms (+- 0,05%)
+2930000
+Resistência: 2,93 MOhms (+- 0,1%)
+29
+Resistência: 29,5 Ohms (+- 2%)
+456000000
+Resistência: 456 MOhms (+- 0,25%)
+73600
+Resistência: 73,6 kOhms (+- 0,25%)
+9
+Resistência: 9,57 Ohms (+- 1%)
+251000000
+Resistência: 251 MOhms (+- 10%)
+2410
+Resistência: 2,41 kOhms (+- 0,5%)
+46900
+Resistência: 46,9 kOhms (+- 2%)
+23900
+Resistência: 23,9 kOhms (+- 0,1%)
+2350000000
+Resistência: 2350 MOhms (+- 10%)
+99200000
+Resistência: 99,2 MOhms (+- 1%)
+87
+Resistência: 87,2 Ohms (+- 0,05%)
+9210000000
+Resistência: 9210 MOhms (+- 0,5%)
+808
+Resistência: 808 Ohms (+- 0,5%)
+7260000000
+Resistência: 7260 MOhms (+- 0,5%)
+7950
+Resistência: 7,95 kOhms (+- 10%)
+52300
+Resistência: 52,3 kOhms (+- 0,25%)
+62900
+Resistência: 62,9 kOhms (+- 2%)
+4820
+Resistência: 4,82 kOhms (+- 10%)
+326000
+Resistência: 326 kOhms (+- 0,1%)
+681000
+Resistência: 681 kOhms (+- 0,1%)
+862000
+Resistência: 862 kOhms (+- 10%)
+334000000
+Resistência: 334 MOhms (+- 1%)
+1290
+Resistência: 1,29 kOhms (+- 10%)
+3
+Resistência: 3,6 Ohms (+- 0,25%)
+92000
+Resistência: 92 kOhms (+- 0,5%)
+5320000
+Resistência: 5,32 MOhms (+- 0,5%)
+990000
+Resistência: 990 kOhms (+- 5%)
+453
+Resistência: 453 Ohms (+- 0,5%)
+845
+Resistência: 845 Ohms (+- 0,1%)
+6580000
+Resistência: 6,58 MOhms (+- 0,5%)
+7930
+Resistência: 7,93 kOhms (+- 1%)
+532000000
+Resistência: 532 MOhms (+- 0,05%)
+99400
+Resistência: 99,4 kOhms (+- 0,1%)
+959
+Resistência: 959 Ohms (+- 5%)
+3
+Resistência: 3,12 Ohms (+- 1%)
+226000000
+Resistência: 226 MOhms (+- 1%)
+4060
+Resistência: 4,06 kOhms (+- 2%)
+3960000000
+Resistência: 3960 MOhms (+- 0,1%)
+1210
+Resistência: 1,21 kOhms (+- 2%)
+2
+Resistência: 2,36 Ohms (+- 2%)
+3
+Resistência: 3,42 Ohms (+- 0,25%)
+9
+Resistência: 9,63 Ohms (+- 10%)
+9230000
+Resistência: 9,23 MOhms (+- 0,1%)
+6680000000
+Resistência: 6680 MOhms (+- 10%)
+228000000
+Resistência: 228 MOhms (+- 1%)
+4270000
+Resistência: 4,27 MOhms (+- 0,05%)
+4560000000
+Resistência: 4560 MOhms (+- 0,05%) 15 ppm / K
+12500000
+Resistência: 12,5 MOhms (+- 5%) 15 ppm / K
+928
+Resistência: 928 Ohms (+- 10%) 100 ppm / K
+6390
+Resistência: 6,39 kOhms (+- 0,5%) 100 ppm / K
+7480000
+Resistência: 7,48 MOhms (+- 1%) 100 ppm / K
+972
+Resistência: 972 Ohms (+- 2%) 15 ppm / K
+25300
+Resistência: 25,3 kOhms (+- 1%) 15 ppm / K
+77800000
+Resistência: 77,8 MOhms (+- 5%) 100 ppm / K
+8420000000
+Resistência: 8420 MOhms (+- 1%) 50 ppm / K
+68800
+Resistência: 68,8 kOhms (+- 0,25%) 15 ppm / K
+36400000
+Resistência: 36,4 MOhms (+- 0,5%) 50 ppm / K
+409
+Resistência: 409 Ohms (+- 0,05%) 100 ppm / K
+83
+Resistência: 83,4 Ohms (+- 0,25%) 100 ppm / K
+40900
+Resistência: 40,9 kOhms (+- 10%) 100 ppm / K
+660000
+Resistência: 660 kOhms (+- 1%) 25 ppm / K
+9510000
+Resistência: 9,51 MOhms (+- 0,25%) 25 ppm / K
+2
+Resistência: 2,83 Ohms (+- 10%) 25 ppm / K
+565000000
+Resistência: 565 MOhms (+- 0,05%) 50 ppm / K
+44200000
+Resistência: 44,2 MOhms (+- 0,5%) 25 ppm / K
+455000
+Resistência: 455 kOhms (+- 10%) 100 ppm / K
+381000
+Resistência: 381 kOhms (+- 10%) 100 ppm / K
+64700000
+Resistência: 64,7 MOhms (+- 0,25%) 15 ppm / K
+8170000000
+Resistência: 8170 MOhms (+- 0,5%) 15 ppm / K
+37900000
+Resistência: 37,9 MOhms (+- 0,25%) 50 ppm / K
+47900
+Resistência: 47,9 kOhms (+- 1%) 15 ppm / K
+3170000
+Resistência: 3,17 MOhms (+- 1%) 15 ppm / K
+63600
+Resistência: 63,6 kOhms (+- 0,5%) 100 ppm / K
+647
+Resistência: 647 Ohms (+- 5%) 15 ppm / K
+475000
+Resistência: 475 kOhms (+- 5%) 25 ppm / K
+2840000000
+Resistência: 2840 MOhms (+- 0,05%) 25 ppm / K
+93
+Resistência: 93,3 Ohms (+- 10%) 100 ppm / K
+47
+Resistência: 47,8 Ohms (+- 1%) 100 ppm / K
+614000
+Resistência: 614 kOhms (+- 0,1%) 100 ppm / K
+342
+Resistência: 342 Ohms (+- 1%) 25 ppm / K
+740
+Resistência: 740 Ohms (+- 0,5%) 25 ppm / K
+320
+Resistência: 320 Ohms (+- 1%) 25 ppm / K
+69
+Resistência: 69,5 Ohms (+- 1%) 15 ppm / K
+254000
+Resistência: 254 kOhms (+- 2%) 15 ppm / K
+7
+Resistência: 7,5 Ohms (+- 2%) 15 ppm / K
+304000
+Resistência: 304 kOhms (+- 0,05%) 15 ppm / K
+35300
+Resistência: 35,3 kOhms (+- 0,5%) 15 ppm / K
+42900
+Resistência: 42,9 kOhms (+- 0,25%) 100 ppm / K
+156000
+Resistência: 156 kOhms (+- 0,5%) 100 ppm / K
+60
+Resistência: 60,9 Ohms (+- 0,1%) 100 ppm / K
+25000
+Resistência: 25 kOhms (+- 0,25%) 50 ppm / K
+8880
+Resistência: 8,88 kOhms (+- 1%) 50 ppm / K
+444
+Resistência: 444 Ohms (+- 5%) 25 ppm / K
+756
+Resistência: 756 Ohms (+- 0,1%) 50 ppm / K
+36200
+Resistência: 36,2 kOhms (+- 0,5%) 100 ppm / K
+7500000
+Resistência: 7,5 MOhms (+- 5%) 100 ppm / K
+15
+Resistência: 15,4 Ohms (+- 5%) 15 ppm / K
+63500000
+Resistência: 63,5 MOhms (+- 1%) 15 ppm / K
+701
+Resistência: 701 Ohms (+- 5%) 100 ppm / K
+8430000
+Resistência: 8,43 MOhms (+- 10%) 100 ppm / K
+53
+Resistência: 53,1 Ohms (+- 1%) 100 ppm / K
+29900000
+Resistência: 29,9 MOhms (+- 0,25%) 15 ppm / K
+9040000
+Resistência: 9,04 MOhms (+- 1%) 15 ppm / K
+21
+Resistência: 21,2 Ohms (+- 0,05%) 50 ppm / K
+1860000
+Resistência: 1,86 MOhms (+- 1%) 50 ppm / K
+8560000000
+Resistência: 8560 MOhms (+- 0,25%) 25 ppm / K
+3620000
+Resistência: 3,62 MOhms (+- 10%) 25 ppm / K
+3770000000
+Resistência: 3770 MOhms (+- 0,1%) 100 ppm / K
+8
+Resistência: 8,33 Ohms (+- 0,1%) 15 ppm / K
+58400
+Resistência: 58,4 kOhms (+- 0,05%) 15 ppm / K
+7740000
+Resistência: 7,74 MOhms (+- 1%) 25 ppm / K
+2
+Resistência: 2,51 Ohms (+- 5%) 15 ppm / K
+4280000
+Resistência: 4,28 MOhms (+- 0,05%) 100 ppm / K
+3680000000
+Resistência: 3680 MOhms (+- 2%) 25 ppm / K
+10
+Resistência: 10,7 Ohms (+- 10%) 50 ppm / K
+3860
+Resistência: 3,86 kOhms (+- 0,05%) 15 ppm / K
+841000000
+Resistência: 841 MOhms (+- 2%) 100 ppm / K
+8
+Resistência: 8,11 Ohms (+- 10%) 100 ppm / K
+2
+Resistência: 2,09 Ohms (+- 0,5%) 50 ppm / K
+3
+Resistência: 3,84 Ohms (+- 2%) 25 ppm / K
+9900000000
+Resistência: 9900 MOhms (+- 1%) 50 ppm / K
+12900000
+Resistência: 12,9 MOhms (+- 1%) 100 ppm / K
+267000000
+Resistência: 267 MOhms (+- 10%) 50 ppm / K
+439
+Resistência: 439 Ohms (+- 0,5%) 15 ppm / K
+733000000
+Resistência: 733 MOhms (+- 0,25%) 100 ppm / K
+729
+Resistência: 729 Ohms (+- 0,05%) 100 ppm / K
+65
+Resistência: 65,2 Ohms (+- 5%) 50 ppm / K
+2070000000
+Resistência: 2070 MOhms (+- 0,05%) 25 ppm / K
+971000000
+Resistência: 971 MOhms (+- 0,25%) 15 ppm / K
+689000000
+Resistência: 689 MOhms (+- 1%) 100 ppm / K
+787000
+Resistência: 787 kOhms (+- 1%) 50 ppm / K
+211000
+Resistência: 211 kOhms (+- 2%) 25 ppm / K
+9
+Resistência: 9,49 Ohms (+- 0,5%) 100 ppm / K
+3330
+Resistência: 3,33 kOhms (+- 0,5%) 25 ppm / K
+1620
+Resistência: 1,62 kOhms (+- 0,5%) 25 ppm / K
+733000
+Resistência: 733 kOhms (+- 0,1%) 50 ppm / K
+9760000
+Resistência: 9,76 MOhms (+- 0,1%) 15 ppm / K
+17100
+Resistência: 17,1 kOhms (+- 0,25%) 25 ppm / K
+377000000
+Resistência: 377 MOhms (+- 2%) 100 ppm / K
+7820000
+Resistência: 7,82 MOhms (+- 0,25%) 100 ppm / K
+2
+Resistência: 2,68 Ohms (+- 0,5%) 25 ppm / K
+346
+Resistência: 346 Ohms (+- 0,25%) 25 ppm / K
+84600
+Resistência: 84,6 kOhms (+- 0,5%) 100 ppm / K
+112000000
+Resistência: 112 MOhms (+- 5%) 100 ppm / K
+20
+Resistência: 20,4 Ohms (+- 0,1%) 15 ppm / K
+98100000
+Resistência: 98,1 MOhms (+- 0,5%) 100 ppm / K
+3400
+Resistência: 3,4 kOhms (+- 1%) 100 ppm / K
+2060
+Resistência: 2,06 kOhms (+- 0,25%) 15 ppm / K
+118000
+Resistência: 118 kOhms (+- 0,05%) 50 ppm / K
+576000
+Resistência: 576 kOhms (+- 10%) 15 ppm / K
+44700000
+Resistência: 44,7 MOhms (+- 0,1%) 25 ppm / K
+5210
+Resistência: 5,21 kOhms (+- 0,25%) 100 ppm / K
+4
+Resistência: 4,36 Ohms (+- 0,1%) 100 ppm / K
+73000
+Resistência: 73 kOhms (+- 2%) 25 ppm / K
+428
+Resistência: 428 Ohms (+- 2%) 50 ppm / K
+9960000
+Resistência: 9,96 MOhms (+- 2%) 25 ppm / K
+7
+Resistência: 7,1 Ohms (+- 0,5%) 50 ppm / K
+39300
+Resistência: 39,3 kOhms (+- 10%) 50 ppm / K
+30500
+Resistência: 30,5 kOhms (+- 1%) 100 ppm / K
+9
+Resistência: 9,68 Ohms (+- 5%) 15 ppm / K
+21600000
+Resistência: 21,6 MOhms (+- 0,5%) 15 ppm / K
+392
+Resistência: 392 Ohms (+- 0,05%) 100 ppm / K
+3930
+Resistência: 3,93 kOhms (+- 0,25%) 100 ppm / K
+5170000
+Resistência: 5,17 MOhms (+- 0,1%) 100 ppm / K
+9940000000
+Resistência: 9940 MOhms (+- 1%) 50 ppm / K
+24300000
+Resistência: 24,3 MOhms (+- 0,05%) 25 ppm / K
+75
+Resistência: 75 Ohms (+- 5%) 25 ppm / K
+700
+Resistência: 700 Ohms (+- 2%) 25 ppm / K
+3300000000
+Resistência: 3300 MOhms (+- 0,1%) 25 ppm / K
+31
+Resistência: 31,3 Ohms (+- 0,1%) 100 ppm / K
+168000000
+Resistência: 168 MOhms (+- 0,05%) 25 ppm / K
+2840000000
+Resistência: 2840 MOhms (+- 1%) 15 ppm / K
+574000000
+Resistência: 574 MOhms (+- 10%) 50 ppm / K
+9950
+Resistência: 9,95 kOhms (+- 0,5%) 100 ppm / K
+5020
+Resistência: 5,02 kOhms (+- 2%) 25 ppm / K
+817
+Resistência: 817 Ohms (+- 0,25%) 15 ppm / K
+9400000
+Resistência: 9,4 MOhms (+- 1%) 15 ppm / K
+444
+Resistência: 444 Ohms (+- 0,05%) 15 ppm / K
+588000
+Resistência: 588 kOhms (+- 0,25%) 100 ppm / K
+66
+Resistência: 66,8 Ohms (+- 0,25%) 100 ppm / K
+985000
+Resistência: 985 kOhms (+- 10%) 25 ppm / K
+79700000
+Resistência: 79,7 MOhms (+- 0,05%) 25 ppm / K
+99500
+Resistência: 99,5 kOhms (+- 0,05%) 50 ppm / K
+542
+Resistência: 542 Ohms (+- 0,05%) 15 ppm / K
+407000000
+Resistência: 407 MOhms (+- 0,1%) 25 ppm / K
+34800
+Resistência: 34,8 kOhms (+- 0,05%) 50 ppm / K
+997000000
+Resistência: 997 MOhms (+- 2%) 100 ppm / K
+133
+Resistência: 133 Ohms (+- 0,1%) 100 ppm / K
+5020000000
+Resistência: 5020 MOhms (+- 0,05%) 25 ppm / K
+7960
+Resistência: 7,96 kOhms (+- 0,5%) 50 ppm / K
+7470
+Resistência: 7,47 kOhms (+- 5%) 50 ppm / K
+943
+Resistência: 943 Ohms (+- 0,5%) 100 ppm / K
+165
+Resistência: 165 Ohms (+- 5%) 100 ppm / K
+11
+Resistência: 11,5 Ohms (+- 0,05%) 50 ppm / K
+52
+Resistência: 52,3 Ohms (+- 2%) 15 ppm / K
+87900000
+Resistência: 87,9 MOhms (+- 10%) 50 ppm / K
+5780
+Resistência: 5,78 kOhms (+- 2%) 15 ppm / K
+3890000
+Resistência: 3,89 MOhms (+- 1%) 50 ppm / K
+3
+Resistência: 3,76 Ohms (+- 10%) 15 ppm / K
+6210000
+Resistência: 6,21 MOhms (+- 10%) 100 ppm / K
+24900000
+Resistência: 24,9 MOhms (+- 0,25%) 25 ppm / K
+630
+Resistência: 630 Ohms (+- 5%) 100 ppm / K
+474
+Resistência: 474 Ohms (+- 0,1%) 15 ppm / K
+13900
+Resistência: 13,9 kOhms (+- 5%) 15 ppm / K
+67100
+Resistência: 67,1 kOhms (+- 5%) 100 ppm / K
+301
+Resistência: 301 Ohms (+- 2%) 15 ppm / K
+2
+Resistência: 2,73 Ohms (+- 1%) 15 ppm / K
+524000
+Resistência: 524 kOhms (+- 0,1%) 25 ppm / K
+4
+Resistência: 4,57 Ohms (+- 0,25%) 15 ppm / K
+521
+Resistência: 521 Ohms (+- 0,05%) 25 ppm / K
+943000000
+Resistência: 943 MOhms (+- 0,05%) 25 ppm / K
+565
+Resistência: 565 Ohms (+- 0,25%) 100 ppm / K
+6870000000
+Resistência: 6870 MOhms (+- 1%) 100 ppm / K
+364
+Resistência: 364 Ohms (+- 0,1%) 25 ppm / K
+669000
+Resistência: 669 kOhms (+- 1%) 25 ppm / K
+5290
+Resistência: 5,29 kOhms (+- 5%) 100 ppm / K
+774
+Resistência: 774 Ohms (+- 5%) 15 ppm / K
+7610
+Resistência: 7,61 kOhms (+- 0,25%) 15 ppm / K
+800
+Resistência: 800 Ohms (+- 0,1%) 15 ppm / K
+605
+Resistência: 605 Ohms (+- 0,1%) 100 ppm / K
+5140000
+Resistência: 5,14 MOhms (+- 0,5%) 25 ppm / K
+5120000
+Resistência: 5,12 MOhms (+- 0,05%) 100 ppm / K
+95600
+Resistência: 95,6 kOhms (+- 2%) 15 ppm / K
+338000
+Resistência: 338 kOhms (+- 0,05%) 15 ppm / K
+1530
+Resistência: 1,53 kOhms (+- 0,5%) 25 ppm / K
+885000000
+Resistência: 885 MOhms (+- 0,05%) 25 ppm / K
+77500
+Resistência: 77,5 kOhms (+- 10%) 25 ppm / K
+3680000000
+Resistência: 3680 MOhms (+- 2%) 15 ppm / K
+350
+Resistência: 350 Ohms (+- 0,25%) 15 ppm / K
+92300000
+Resistência: 92,3 MOhms (+- 5%) 25 ppm / K
+2640
+Resistência: 2,64 kOhms (+- 5%) 15 ppm / K
+44
+Resistência: 44 Ohms (+- 10%) 15 ppm / K
+912000000
+Resistência: 912 MOhms (+- 0,25%) 25 ppm / K
+17600
+Resistência: 17,6 kOhms (+- 0,5%) 100 ppm / K
+4
+Resistência: 4,99 Ohms (+- 0,05%) 50 ppm / K
+66
+Resistência: 66,5 Ohms (+- 2%) 25 ppm / K
+82300000
+Resistência: 82,3 MOhms (+- 0,25%) 25 ppm / K
+5800000000
+Resistência: 5800 MOhms (+- 0,05%) 50 ppm / K
+813000000
+Resistência: 813 MOhms (+- 0,25%) 100 ppm / K
+415
+Resistência: 415 Ohms (+- 0,1%) 15 ppm / K
+623000000
+Resistência: 623 MOhms (+- 1%) 25 ppm / K
+34
+Resistência: 34,5 Ohms (+- 0,25%) 15 ppm / K
+3830000000
+Resistência: 3830 MOhms (+- 5%) 25 ppm / K
+92
+Resistência: 92,9 Ohms (+- 10%) 25 ppm / K
+3
+Resistência: 3,08 Ohms (+- 1%) 15 ppm / K
+6
+Resistência: 6,35 Ohms (+- 0,5%) 50 ppm / K

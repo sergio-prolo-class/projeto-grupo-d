@@ -23,23 +23,19 @@ public class DecodificadorResistor {
     // Usadas nas posições iniciais do resistor
     private static final Set<String> DIGITOS_VALIDOS = Set.of(
             "preto", "marrom", "vermelho", "laranja", "amarelo",
-            "verde", "azul", "violeta", "cinza", "branco",
-            "roxo", "rosa"
+            "verde", "azul", "roxo", "cinza", "branco"
     );
 
     // Conjunto de cores válidas para a faixa de MULTIPLICADOR
     private static final Set<String> MULTIPLICADORES_VALIDOS = Set.of(
             "preto", "marrom", "vermelho", "laranja", "amarelo",
-            "verde", "azul", "violeta", "cinza", "branco",
-            "roxo", "rosa",
-            "ouro", "dourado", "prata"
+            "verde", "azul", "roxo", "ouro", "prata"
     );
 
     // Conjunto de cores válidas para a faixa de TOLERÂNCIA
     private static final Set<String> TOLERANCIAS_VALIDAS = Set.of(
-            "marrom", "vermelho", "verde", "azul", "violeta",
-            "cinza", "roxo", "rosa",
-            "ouro", "dourado", "prata"
+            "marrom", "vermelho", "verde", "azul", "roxo",
+            "cinza", "ouro", "prata"
     );
 
     // Conjunto de cores válidas para o coeficiente de temperatura (TEMPCO)
@@ -142,8 +138,16 @@ public class DecodificadorResistor {
                 digitos,
                 cores[3]
             );
-        }
+            }
+            // Descobre a tolerância (posição depende da quantidade de faixas)
+            String corTolerancia = (cores.length == 4) ? cores[3] : cores[4];
+            double tolerancia = CalculoResistencia.obterTolerancia(corTolerancia);
 
+            // Descobre tempco apenas se for 6 faixas
+            Integer tempco = null;
+            if (cores.length == 6) {
+            tempco = CalculoResistencia.obterTempco(cores[5]);
+            }
             // PRIMEIRA LINHA DA SAÍDA:
             // Imprime o valor inteiro da resistência em Ohms,
             // conforme exigido no enunciado do desafio
@@ -152,7 +156,7 @@ public class DecodificadorResistor {
             // SEGUNDA LINHA DA SAÍDA:
             // Imprime o valor formatado em Ohms, kOhms ou MOhms,
             // utilizando o formatador responsável pela apresentação
-            System.out.println(FormatadorResistencia.formatar(valorOhms));
+            System.out.println(FormatadorResistencia.formatar(valorOhms, tolerancia, tempco));
 
 
         } catch (IllegalArgumentException e) {

@@ -2,3 +2,5 @@
 out/
 # Ignorar arquivos compilados (classe)
 *.class
+# Ignorar arquivos de saída e testes locais
+saida.txt
